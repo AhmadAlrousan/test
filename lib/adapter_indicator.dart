@@ -11,5 +11,5 @@ AdapterIndicator({required this.os});
 
     return const CupertinoActivityIndicator();
   }
-  //...........
+  //............
 }
